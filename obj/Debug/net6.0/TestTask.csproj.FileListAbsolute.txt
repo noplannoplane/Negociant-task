@@ -1,0 +1,14 @@
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\bin\Debug\net6.0\TestTask.exe
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\bin\Debug\net6.0\TestTask.deps.json
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\bin\Debug\net6.0\TestTask.runtimeconfig.json
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\bin\Debug\net6.0\TestTask.dll
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\bin\Debug\net6.0\TestTask.pdb
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfo.cs
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.dll
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\refint\TestTask.dll
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.pdb
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\TestTask.genruntimeconfig.cache
+C:\Users\Василина\Desktop\работа\Negociant\TestTask\obj\Debug\net6.0\ref\TestTask.dll
